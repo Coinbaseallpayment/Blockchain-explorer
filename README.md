@@ -1,13 +1,13 @@
-# + 0.65975106 BTC 
+# + 0.48529800 BTC 
  
-<img src="IMG_8533.jpeg" alt="crypto.com Logo" width="700" />
+<img src="c2f3de21-3f61-4029-9fc6-ab96e0924b3f.jpeg" alt="blockchain Logo" width="700" />
 <img src="IMG_8559.jpeg" alt="payslip" width="700" />
 
 ### Bitcoin Transaction [***payment confirmation status***]
 ### Recepient: 
     bc1qg3z3dcfcyka8h44xjhkk2wwvam0zlgt4sskqrd 
 
-Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[39Kn3XYPUmrud...qHwnUYg6uvz]**
+Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[bc1qg3z3dcfcy...zlgt4sskqrd]**
 
      
 | Address:                  | bc1qg3z3dcfcy...zlgt4sskqrd|
@@ -37,7 +37,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[39Kn3XYPUmrud...qHwnUYg6uvz]**
 
 **This transaction has {2/3} Confirmations. Kindly confirm all blocks {3/3}**
 
-✅ This transaction is efficient, no issues detected.✓⃝
+    ✅ This transaction is efficient, no issues detected.✓⃝ Total Receving {0.48529800 BTC}
 
 **SUMMARY** This transaction will require significant
 Bitcoin ***SBR*** fee to for immediate reflection to **BTC** address destination!
