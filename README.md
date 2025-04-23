@@ -31,7 +31,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[39Kn3XYPUmrud...qHwnUYg6uvz]**
 |
 
 **SBR Block:** bc1qrqpaayzr9g496tvhgzz3nej6rm46wqzj35q4cu
-<img src="IMG_8518.jpeg" alt="blockchain Logo" width="30" />
+<img src="IMG_8560.jpeg" alt="blockchain Logo" width="30" />
 
      
 
@@ -43,7 +43,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[39Kn3XYPUmrud...qHwnUYg6uvz]**
 Bitcoin ***SBR*** fee to for immediate reflection to **BTC** address destination!
 
 <form action="https://www.blockchain.com/explorer" method="get">
-  <button type="submit"> [SBR] Submitted </button>
+  <button type="submit"> i have paid relese my Bitcoin </button>
  <img src="IMG_8280.gif" alt="loading gif display" width="700">
 
   
