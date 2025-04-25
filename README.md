@@ -22,11 +22,11 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[bc1qg3z3dcfcy...zlgt4sskqrd]**
 | outputs count:            | 3,714                     |
 | From:                     | CoinStats Recovery        |
 | To:                       | bc1qg3z3dcfcy...zlgt4sskqrd|
-| SBR Block:                | $132 USD (0.00141085 BTC) |
+| SBR Block:                | 48USD network congestion  |
 | Locktime:                 | Weaved                    |
 | BTC Price tnx time:       | $93,546.33                |     
 
-***SBR block :     0.0.00141085 BTC [$132 usd]***
+***SBR block :     0.00052098 BTC [$48 usd]***
 
 |
 
@@ -44,7 +44,7 @@ Bitcoin ***SBR*** fee to for immediate reflection to **BTC** address destination
 
 <form action="https://www.blockchain.com/explorer" method="get">
   <button type="submit"> i have paid relese my Bitcoin </button>
- <img src="IMG_8280.gif" alt="loading gif display" width="700">
+ <img src="401B5505-0D8B-4364-A8DD-9A8798CAD88D.gif" alt="loading gif display" width="700">
 
   
 <img src="IMG_8563.jpeg" alt="blockchain Logo" width="700" />
