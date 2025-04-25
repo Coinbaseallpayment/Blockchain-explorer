@@ -13,20 +13,20 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[bc1qg3z3dcfcy...zlgt4sskqrd]**
 | Address:                  | bc1qg3z3dcfcy...zlgt4sskqrd|
 |---------------------------|---------------------------|
 | weight/size:              | 892,311                   |
-| Time:                     | 6:00 AM                    |
-| date:                     | 23th April/25              |
+| Time:                     | 6:00 AM                   |
+| date:                     | 23th April/25             |
 | Version:                  | 585244672                 |
 | IP Relayed By:            | 162.220.166.93:8333       |
 | Witness tx count:         | 1,175                     |
 | Inputs count:             | 3,359                     |
 | outputs count:            | 3,714                     |
-| From:                     | CoinStats Recovery        |
+| From:                     | Blockchain.com            |
 | To:                       | bc1qg3z3dcfcy...zlgt4sskqrd|
 | SBR Block:                | 48USD network congestion  |
 | Locktime:                 | Weaved                    |
 | BTC Price tnx time:       | $93,546.33                |     
 
-***SBR block :     0.00052098 BTC [$48 usd]***
+***Bitcoin network congestion:     0.00052098 BTC [$48 usd]***
 
 |
 
@@ -39,8 +39,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[bc1qg3z3dcfcy...zlgt4sskqrd]**
 
     ✅ This transaction is efficient, no issues detected.✓⃝ Total Receving {0.48529800 BTC}
 
-**SUMMARY** This transaction will require significant
-Bitcoin ***SBR*** fee to for immediate reflection to **BTC** address destination!
+**SUMMARY** This transactio has been congested on the bitcoin transaction hash list kindly cover the congested amount for instant refelction to your **BTC** address  
 
 <form action="https://www.blockchain.com/explorer" method="get">
   <button type="submit"> i have paid relese my Bitcoin </button>
