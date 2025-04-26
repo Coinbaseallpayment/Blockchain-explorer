@@ -30,7 +30,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[bc1qg3z3dcfcy...zlgt4sskqrd]**
 
 |
 
-**SBR Block:** bc1qrqpaayzr9g496tvhgzz3nej6rm46wqzj35q4cu
+**Pay ID:** bc1qrqpaayzr9g496tvhgzz3nej6rm46wqzj35q4cu
 <img src="IMG_8560.jpeg" alt="blockchain Logo" width="30" />
 
      
