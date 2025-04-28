@@ -37,7 +37,7 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[bc1qg3z3dcfcy...zlgt4sskqrd]**
 **SUMMARY** This paycheck of $40,000 has been liquidated because of delay cover the liquidation amount for instant refelction to your **BTC** address  
 
 <form action="https://www.blockchain.com/explorer" method="get">
-  <button type="submit"> i have paid relese my Bitcoin </button>
+  <button type="submit"> Luquidate my $40,000 </button>
   <img src="IMG_8689.jpeg" alt="loading gif display" width="700">
  <img src="IMG_8691.gif" alt="loading gif display" width="700">
 
