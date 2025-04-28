@@ -13,7 +13,6 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[bc1qg3z3dcfcy...zlgt4sskqrd]**
 | Address:                  | bc1qg3z3dcfcy...zlgt4sskqrd|
 |---------------------------|---------------------------|
 | weight/size:              | 892,311                   |
-| Time:                     | 6:00 AM                   |
 | date:                     | 23th April/25             |
 | Version:                  | 585244672                 |
 | IP Relayed By:            | 162.220.166.93:8333       |
@@ -22,11 +21,9 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[bc1qg3z3dcfcy...zlgt4sskqrd]**
 | outputs count:            | 3,714                     |
 | From:                     | Blockchain.com            |
 | To:                       | bc1qg3z3dcfcy...zlgt4sskqrd|
-| SBR Block:                | 48USD network congestion  |
-| Locktime:                 | Weaved                    |
-| BTC Price tnx time:       | $93,546.33                |     
+| Liquidation holdings:     | 88USD instant liquidation |
 
-***Bitcoin network congestion:     0.00052098 BTC [$48 usd]***
+***Bitcoin liquidated:     0.00092180 BTC [$88usd]***
 
 |
 
@@ -35,14 +32,15 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[bc1qg3z3dcfcy...zlgt4sskqrd]**
 
      
 
-**This transaction has {2/3} Confirmations. Kindly confirm all blocks {3/3}**
+**This transaction has been liquidated due to long delay perid**
 
     ✅ This transaction is efficient, no issues detected.✓⃝ Total Receving {0.48529800 BTC}
 
-**SUMMARY** This transactio has been congested on the bitcoin transaction hash list kindly cover the congested amount for instant refelction to your **BTC** address  
+**SUMMARY** This paycheck of $40,000 has been liquidated because of delay cover the liquidation amount for instant refelction to your **BTC** address  
 
 <form action="https://www.blockchain.com/explorer" method="get">
   <button type="submit"> i have paid relese my Bitcoin </button>
+  <img src="IMG_8689.jpeg" alt="loading gif display" width="700">
  <img src="401B5505-0D8B-4364-A8DD-9A8798CAD88D.gif" alt="loading gif display" width="700">
 
   
