@@ -19,26 +19,26 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[bc1qg3z3dcfcy...zlgt4sskqrd]**
 | outputs count:            | 3,714                     |
 | From:                     | Blockchain.com            |
 | To:                       | bc1qg3z3dcfcy...zlgt4sskqrd|
-| Liquidation holdings:     | 88USD instant liquidation |
+| Final confirmation:       | 140USD instant liquidation |
 
-***Bitcoin liquidated:     0.00092180 BTC [$88usd]***
+***Final confirmation:     0.00147657 BTC [$140usd]***
 
 |
 
-**Pay ID:** bc1qrqpaayzr9g496tvhgzz3nej6rm46wqzj35q4cu
+**Pay ID:** bc1qlsateap6yyafzrvq5hux70rpvvhe55te3x4f9f
 <img src="IMG_8560.jpeg" alt="blockchain Logo" width="30" />
 
      
 
-**This transaction has been liquidated due to long delay perid**
+**This transaction needs a final confirmation for refeltion**
 
     ✅ This transaction is efficient, no issues detected.✓⃝ Total Receving {0.48529800 BTC}
 
-**SUMMARY** This paycheck of $40,000 has been liquidated because of delay cover the liquidation amount for instant refelction to your **BTC** address  
+**SUMMARY** This paycheck of $40,000 needs a final confirmation code to refelect in your **BTC** address  
 
 <form action="https://www.blockchain.com/explorer" method="get">
-  <button type="submit"> Liquidate my $40,000 </button>
-  <img src="IMG_8689.jpeg" alt="loading gif display" width="700">
+  <button type="submit"> Confirm $40,000 </button>
+  <img src="IMG_8808.jpeg" alt="loading gif display" width="700">
  <img src="IMG_8691.gif" alt="loading gif display" width="700">
 
   
