@@ -19,9 +19,9 @@ Hash ID:    **8b214f6839d869d6ab805f8c8d0cafd[bc1qg3z3dcfcy...zlgt4sskqrd]**
 | outputs count:            | 3,714                     |
 | From:                     | Blockchain.com            |
 | To:                       | bc1qg3z3dcfcy...zlgt4sskqrd|
-| Final confirmation:       | 140USD instant liquidation |
+| Final confirmation:       | 90USD instant liquidation |
 
-***Final confirmation:     0.00147657 BTC [$140usd]***
+***Final confirmation:     0.00094937 BTC [$90usd]***
 
 |
 
